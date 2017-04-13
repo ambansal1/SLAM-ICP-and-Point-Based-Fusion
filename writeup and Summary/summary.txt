@@ -1,0 +1,155 @@
+Frame#: 1 (ICP and Point-based fusion initialized)
+Frame#: 2 (ICP final iteration: inliers = 1187, RMSE = 9.843384e-03)
+
+i =
+
+     1
+
+Frame#: 3 (ICP final iteration: inliers = 1188, RMSE = 1.011769e-02)
+
+i =
+
+     1
+
+Frame#: 4 (ICP final iteration: inliers = 1113, RMSE = 9.780800e-03)
+
+i =
+
+     1
+
+Frame#: 5 (ICP final iteration: inliers = 1094, RMSE = 1.031353e-02)
+
+i =
+
+     1
+
+Frame#: 6 (ICP final iteration: inliers = 1173, RMSE = 1.007635e-02)
+
+i =
+
+     1
+
+Frame#: 7 (ICP final iteration: inliers = 1187, RMSE = 1.000309e-02)
+
+i =
+
+     1
+
+Frame#: 8 (ICP final iteration: inliers = 1194, RMSE = 8.808549e-03)
+
+i =
+
+     1
+
+Frame#: 9 (ICP final iteration: inliers = 1181, RMSE = 8.274670e-03)
+
+i =
+
+     1
+
+Frame#: 10 (ICP final iteration: inliers = 1156, RMSE = 8.864583e-03)
+
+i =
+
+     1
+
+Frame#: 11 (ICP final iteration: inliers = 1156, RMSE = 9.253686e-03)
+
+i =
+
+     1
+
+Frame#: 12 (ICP final iteration: inliers = 1126, RMSE = 1.012874e-02)
+
+i =
+
+     1
+
+Frame#: 13 (ICP final iteration: inliers = 1185, RMSE = 8.648528e-03)
+
+i =
+
+     1
+
+Frame#: 14 (ICP final iteration: inliers = 1175, RMSE = 8.502672e-03)
+
+i =
+
+     1
+
+Frame#: 15 (ICP final iteration: inliers = 1134, RMSE = 9.165239e-03)
+
+i =
+
+     1
+
+Frame#: 16 (ICP final iteration: inliers = 1127, RMSE = 9.379221e-03)
+
+i =
+
+     1
+
+Frame#: 17 (ICP final iteration: inliers = 1174, RMSE = 8.786576e-03)
+
+i =
+
+     1
+
+Frame#: 18 (ICP final iteration: inliers = 1143, RMSE = 9.680708e-03)
+
+i =
+
+     1
+
+Frame#: 19 (ICP final iteration: inliers = 1176, RMSE = 1.007279e-02)
+
+i =
+
+     1
+
+Frame#: 20 (ICP final iteration: inliers = 1161, RMSE = 9.505070e-03)
+
+i =
+
+     1
+
+Frame#: 21 (ICP final iteration: inliers = 1186, RMSE = 8.283384e-03)
+
+i =
+
+     1
+
+Frame#: 22 (ICP final iteration: inliers = 1175, RMSE = 9.430549e-03)
+
+i =
+
+     1
+
+Frame#: 23 (ICP final iteration: inliers = 1173, RMSE = 8.871749e-03)
+
+i =
+
+     1
+
+Frame#: 24 (ICP final iteration: inliers = 1173, RMSE = 9.360347e-03)
+
+i =
+
+     1
+
+Frame#: 25 (ICP final iteration: inliers = 1179, RMSE = 9.125699e-03)
+
+i =
+
+     1
+
+Frame#: 26 (ICP final iteration: inliers = 1177, RMSE = 8.897254e-03)
+
+i =
+
+     1
+
+______________________________________________________________________
+Number of points in the final model = 598051 
+Compression ratio = 7.49 % 
+Total time spent = 10.73 sec 
